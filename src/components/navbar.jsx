@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <nav className="flex flex-row justify-between bg-white h-10 w-screen">
+    <nav className="flex flex-row justify-between bg-white h-10 ">
       <div className="ml-3 flex items-stretch space-x-8 ">
         <img src="/twitch.svg" alt="twitch-logo" className="p-2" />
         <div className="flex items-center border-b-2 border-[#5c16c5] font-bold">
@@ -20,11 +20,7 @@ function Navbar() {
           🔍
         </button>
       </div>
-      <div className="ml-3 flex items-stretch space-x-[0.2rem] bg-yellow-200">
-        <img src="/noti.svg" alt="twitch-logo" className="p-[0.9rem]" />
-        <img src="/noti.svg" alt="twitch-logo" className="p-[0.9rem]" />
-        <img src="/noti.svg" alt="twitch-logo" className="p-[0.9rem]" />
-      </div>
+      <div className="ml-3 flex items-stretch space-x-[0.2rem] bg-yellow-200"></div>
     </nav>
   );
 }
