@@ -1,8 +1,16 @@
-# React + Vite
+# Twitch Visual Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una copia visual de la plataforma de streaming **Twitch**, replicando su interfaz gráfica para practicar el desarrollo web moderno con tecnologías frontend.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js**: Framework de JavaScript para construir la interfaz de usuario.
+- **Tailwind**: Estilos personalizados para replicar el diseño de Twitch.
+
+## 🎯 Funcionalidades Principales
+
+- Replicación del diseño visual de la página de explorar de Twitch.
+- Barra de navegación con búsqueda y accesos a diferentes secciones.
+- Visualización de canales en vivo con miniaturas y categorías.
+- Perfil de usuario básico.
+- Diseño responsivo adaptado a diferentes dispositivos.
